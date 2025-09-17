@@ -1,4 +1,4 @@
 # demo
 This is demo repository for practice.
 # class
-lkkn.
+This is sample class.
