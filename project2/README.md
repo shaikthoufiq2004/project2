@@ -1,2 +1,3 @@
 # New Project
-This is a new project in local system.
+Breaking Bad
+Created by Vince Gilligan.
